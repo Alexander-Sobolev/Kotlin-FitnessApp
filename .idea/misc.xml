@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3770833333333333" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3770833333333333" />
+        <entry key="app/src/main/res/layout/days_list_item.xml" value="0.2921875" />
         <entry key="app/src/main/res/layout/fragment_days.xml" value="0.33" />
       </map>
     </option>
